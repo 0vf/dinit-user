@@ -1,1 +1,2 @@
-# dinit-user\nMakefile to build (and use) dinit as the user
+# dinit-user
+Makefile to build (and use) dinit as the user
